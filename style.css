@@ -10,7 +10,7 @@ justify-content: space-around; padding: 2% 24px;}
 }
 .imagem-escola {width: 25%;}
 .escola{background-image: linear-gradient(blueviolet); color: aquamarine;display:
-    
+    }
 .escola-conteudo{widht:35%}
 .escola{display: flex;justify-content: center;align-items: center;padding: 24px 0;}
 .escola-titulo{padding: 24px 0;}
