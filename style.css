@@ -1,4 +1,16 @@
-header{
-    background-color: rgb(211, 241, 226);
-    color: white;
+{margin: 3% 16px;
+    padding: 0% 24% px;
+font-size: 24px;
 }
+.cabecalho {background-color: blueviolet; color: white;
+  display:flex;
+justify-content: space-around; padding: 2% 24px;}
+.cabecalho-image{width: 5%;}
+.cabecalho-lista-item{display: inline-block;margin: 0% 16px;
+}
+.imagem-escola {width: 25%;}
+.escola{background-image: linear-gradient(blueviolet); color: aquamarine;display:
+    
+.escola-conteudo{widht:35%}
+.escola{display: flex;justify-content: center;align-items: center;padding: 24px 0;}
+.escola-titulo{padding: 24px 0;}
